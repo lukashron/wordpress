@@ -8,4 +8,4 @@
 NOTE
 - For Apple chip M1 uncomment line 18 in docker-compose.yml file.
 
-&copy; 2021 ! www.lukashron.cz
+&copy; 2021 | www.lukashron.cz
