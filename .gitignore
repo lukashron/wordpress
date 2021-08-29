@@ -1,0 +1,7 @@
+.idea
+
+database/*
+www/*
+.env
+
+!/**/.gitkeep
